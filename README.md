@@ -8,7 +8,7 @@ Dla każdego zestawu danych opracowano krótki opis. W pierwszym tygodniu skonta
 
 ## Kryteria oceny projektu
 
-0-2 punkty: praca zespołowa
+0-2 punkty: praca zespołowa (uwaga: 0 punktów za wielokrotne kasowanie postępów prac, branchy, repo)
 
 0-3 punkty: estetyka projektu, opracowanie dokumentu technicznego Markdown, komentarze, wnioski. 
 
